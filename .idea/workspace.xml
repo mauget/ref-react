@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="157b72b5-4002-4992-848b-7b37600cb0dc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/router/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
@@ -33,7 +32,9 @@
     <option name="height" value="987" />
   </component>
   <component name="ProjectId" id="1ZAILjlOUsRznfV0q499g3wzVvF" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="false" id="Update" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -123,7 +124,8 @@
       <workItem from="1543932444431" duration="401000" />
       <workItem from="1544011400870" duration="6000" />
       <workItem from="1545826988878" duration="14000" />
-      <workItem from="1584275422209" duration="196000" />
+      <workItem from="1584275422209" duration="429000" />
+      <workItem from="1584276109521" duration="99000" />
     </task>
     <task id="LOCAL-00001" summary="Init">
       <created>1543890412727</created>
@@ -174,7 +176,14 @@
       <option name="project" value="LOCAL" />
       <updated>1543932455535</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Bump minist version">
+      <created>1584275847844</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1584275847845</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -182,29 +191,34 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Init" />
-    <option name="LAST_COMMIT_MESSAGE" value="Init" />
+    <MESSAGE value="Bump minist version" />
+    <option name="LAST_COMMIT_MESSAGE" value="Bump minist version" />
   </component>
   <component name="WindowStateProjectService">
     <state x="467" y="201" key="#Plugins" timestamp="1584275475176">
       <screen x="56" y="23" width="1624" height="1027" />
     </state>
     <state x="467" y="201" key="#Plugins/56.23.1624.1027@56.23.1624.1027" timestamp="1584275475176" />
-    <state width="1356" height="265" key="GridCell.Tab.0.bottom" timestamp="1584275774714">
+    <state x="450" y="138" key="CommitChangelistDialog2" timestamp="1584275847610">
       <screen x="56" y="23" width="1624" height="1027" />
     </state>
-    <state width="1356" height="265" key="GridCell.Tab.0.bottom/56.23.1624.1027@56.23.1624.1027" timestamp="1584275774714" />
-    <state width="1356" height="265" key="GridCell.Tab.0.center" timestamp="1584275774713">
+    <state x="450" y="138" key="CommitChangelistDialog2/56.23.1624.1027@56.23.1624.1027" timestamp="1584275847610" />
+    <state width="1356" height="265" key="GridCell.Tab.0.bottom" timestamp="1584276210106">
       <screen x="56" y="23" width="1624" height="1027" />
     </state>
-    <state width="1356" height="265" key="GridCell.Tab.0.center/56.23.1624.1027@56.23.1624.1027" timestamp="1584275774713" />
-    <state width="1356" height="265" key="GridCell.Tab.0.left" timestamp="1584275774713">
+    <state width="1356" height="265" key="GridCell.Tab.0.bottom/56.23.1624.1027@56.23.1624.1027" timestamp="1584276210106" />
+    <state width="1356" height="265" key="GridCell.Tab.0.center" timestamp="1584276210105">
       <screen x="56" y="23" width="1624" height="1027" />
     </state>
-    <state width="1356" height="265" key="GridCell.Tab.0.left/56.23.1624.1027@56.23.1624.1027" timestamp="1584275774713" />
-    <state width="1356" height="265" key="GridCell.Tab.0.right" timestamp="1584275774714">
+    <state width="1356" height="265" key="GridCell.Tab.0.center/56.23.1624.1027@56.23.1624.1027" timestamp="1584276210105" />
+    <state width="1356" height="265" key="GridCell.Tab.0.left" timestamp="1584276210104">
       <screen x="56" y="23" width="1624" height="1027" />
     </state>
-    <state width="1356" height="265" key="GridCell.Tab.0.right/56.23.1624.1027@56.23.1624.1027" timestamp="1584275774714" />
+    <state width="1356" height="265" key="GridCell.Tab.0.left/56.23.1624.1027@56.23.1624.1027" timestamp="1584276210104" />
+    <state width="1356" height="265" key="GridCell.Tab.0.right" timestamp="1584276210106">
+      <screen x="56" y="23" width="1624" height="1027" />
+    </state>
+    <state width="1356" height="265" key="GridCell.Tab.0.right/56.23.1624.1027@56.23.1624.1027" timestamp="1584276210106" />
     <state x="217" y="114" key="MergeDialog" timestamp="1584275770139">
       <screen x="56" y="23" width="1624" height="1027" />
     </state>
@@ -213,6 +227,10 @@
       <screen x="56" y="23" width="1624" height="1027" />
     </state>
     <state x="578" y="258" key="MultipleFileMergeDialog/56.23.1624.1027@56.23.1624.1027" timestamp="1584275770176" />
+    <state x="467" y="275" key="Vcs.Push.Dialog.v2" timestamp="1584275851539">
+      <screen x="56" y="23" width="1624" height="1027" />
+    </state>
+    <state x="467" y="275" key="Vcs.Push.Dialog.v2/56.23.1624.1027@56.23.1624.1027" timestamp="1584275851539" />
     <state x="650" y="459" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584275731248">
       <screen x="56" y="23" width="1624" height="1027" />
     </state>
